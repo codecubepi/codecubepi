@@ -8,11 +8,17 @@ In my time at WEMPEC as both an undergraduate and graduate student, I have been 
 
 My username is derived from my enjoyment of programming, Rubik's speedcubing, and pi (as well as pie).
 
+## Employers
+
+Here you can find my [résumé](https://github.com/codecubepi/codecubepi/blob/main/nowakowski_patrick_resume.pdf) and [CV](https://github.com/codecubepi/codecubepi/blob/main/nowakowski_patrick_cv.pdf).
+
+If you'd like to view my private repositories for employment reasons, feel free to [contact me](mailto:pnowako123@gmail.com)!
+
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/codecubepi/)
 - [Profile Site]()
-- 
+
 <!--
 **codecubepi/codecubepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
