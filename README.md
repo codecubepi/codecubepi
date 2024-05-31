@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hello there! 👋
 
+My name is Patrick Nowakowski! I am currently a Master's Degree student in the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC Lab) at the University of Wisconsin - Madison 🦡.
+
+I completed my undergrad in Computer Engineering in 2024, with a focus on digital system design. Now, my research is in control of power electronics for power conversion devices.
+
+In my time at WEMPEC as both an undergraduate and graduate student, I have been contributed heavily to the open-source [Advanced Motor Drive Controller](https://www.amdc.dev) (AMDC) platform, doing both PCB design and embedded systems programming.
+
+My username is derived from my enjoyment of programming, Rubik's speedcubing, and pi (as well as pie).
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/codecubepi/)
+- [Profile Site]()
+- 
 <!--
 **codecubepi/codecubepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
