@@ -12,7 +12,7 @@ My username is derived from my enjoyment of programming, Rubik's speedcubing, an
 
 Here you can find my [résumé](https://github.com/codecubepi/codecubepi/blob/main/nowakowski_patrick_resume.pdf) and [CV](https://github.com/codecubepi/codecubepi/blob/main/nowakowski_patrick_cv.pdf).
 
-If you'd like to view my private repositories for employment reasons, feel free to [contact me](mailto:pnowako123@gmail.com)!
+If you'd like to view my private repositories for employment reasons, feel free to [contact me](mailto:pnowakowski@wisc.edu)!
 
 ## Links
 
